@@ -1,6 +1,6 @@
 # GardenSimulator2023
 ## [Playable Link](https://wyatt-hawes.github.io/Garden-Simulator/)
--Web App is installable online and playable offline once installed
+- Web App is installable online and playable offline once installed
 
 ### Previous devlogs entries:
 
